@@ -1,4 +1,4 @@
-# Amazon-Sales-Analysis
+# Sales-Analysis
 In progress...
 Includeds Data Cleaning Workflow using Tableau Prep, EDA, Analysis
 
