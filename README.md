@@ -5,7 +5,8 @@ In progress...
 
 Data Cleaning and Data Preprocessing using Tableau Prep
 
-![image](https://github.com/kk-ykos/Amazon-Sales-Analysis/assets/68120874/423cbcdb-0c35-42f3-9216-b1a895b6d727)
+![image](https://github.com/kk-ykos/User-Review-Sentiment-Analysis-Rating-Prediction/assets/68120874/5ce37c3d-0217-4c3b-9bbc-06fdb741a14b)
+
 
 ![image](https://github.com/kk-ykos/Amazon-Sales-Analysis/assets/68120874/b82a6c84-dc6a-4f63-b778-c03c9df98a8d)
 
