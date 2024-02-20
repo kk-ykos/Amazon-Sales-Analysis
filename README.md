@@ -12,7 +12,7 @@ Data Cleaning and Data Preprocessing using Tableau Prep
 
 Tableau Report and Analysis: Dashboard Visualization
 
-https://public.tableau.com/views/AmazonProductReviewAnalysis/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/ProductReviewandSentimentAnalysis/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ![image](https://github.com/kk-ykos/Product-Review-Sentiment-Analysis-Rating-Prediction/assets/68120874/98f6a42e-c024-46ea-b587-579f6e4ebfae)
 
