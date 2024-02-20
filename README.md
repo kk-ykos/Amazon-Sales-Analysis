@@ -1,4 +1,7 @@
-# Sales-Analysis
+# User Review Sentiment Analysis and Rating Prediction
+
+![image](https://github.com/kk-ykos/Amazon-Sales-Analysis/assets/68120874/67c652fe-828e-4565-b9b9-1e6d178e5315)
+
 In progress...
 Includeds Data Cleaning Workflow using Tableau Prep, EDA, Analysis
 
